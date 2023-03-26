@@ -14,9 +14,8 @@ To get started with the exercises, follow these steps:
 
 1. Clone the repository to your local machine:
 
-sh
-Copy code
-git clone https://github.com/<your-username>/clean-code-exercises.git
+
+```git clone https://github.com/<your-username>/clean-code-exercises.git```
 
 2. Navigate to the cloned repository:
 sh
